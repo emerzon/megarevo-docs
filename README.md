@@ -51,7 +51,7 @@ These parameters are typically accessible from the SolarMan App (either via Remo
     *   **Context:** This is a fundamental setting for grid-tied operation.
 *   **CT Ratio \[0~30000]:**
     *   **Description:** The ratio of the current transformer (CT) used to measure current flowing to or from the grid or generator.  This allows the inverter to correctly read the values.
-    *   **Technical Explanation:** A CT is used to measure AC current by inducing a smaller current in its secondary winding. The ratio is the relationship between the current in the primary and secondary windings. A common ratio would be 1:1000.
+    *   **Technical Explanation:** A CT is used to measure AC current by inducing a smaller current in its secondary winding. The ratio is the relationship between the current in the primary and secondary windings. The ratio of the standard supplied CT's are 1:1000.
 *   **Language:**
     *   **Description:**  Selects the display language for the inverter's LCD.
     *   **Options:** Various languages like Chinese, English, and German.
